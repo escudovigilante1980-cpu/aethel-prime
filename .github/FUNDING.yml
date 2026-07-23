@@ -19,3 +19,13 @@ patreon: tu_usuario_patreon
 ko_fi: tu_usuario_kofi
 buy_me_a_coffee: tu_usuario_buymeacoffee
 custom: ['https://itch.io/tu_juego/donate']
+# Configuración de patrocinio para SOVAR
+
+# Plataformas con soporte directo de usuario
+patreon: tu_usuario_patreon
+ko_fi: tu_usuario_kofi
+buy_me_a_coffee: tu_usuario_buymeacoffee
+
+# Enlace personalizado (por ejemplo, a tu página de Itch.io o PayPal)
+custom: ['https://itch.io/tu_juego/donate']
+
